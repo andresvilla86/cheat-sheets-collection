@@ -1,6 +1,6 @@
 # ¿A quien no le gustan las Cheat Sheets?
 
-Esta es mi coleccion buscando por internet.
+Coleccion de Cheat Sheet para Data Science.
 
 Agradecimientos:
 https://www.linkedin.com/in/drangshu/
