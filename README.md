@@ -3,7 +3,7 @@
 Esta es mi coleccion buscando por internet.
 
 Agradecimientos:
-
+https://www.linkedin.com/in/drangshu/
 
 Nota 1: Si alguna es tuya buscame para agregarte en los agradecimeintos
 
