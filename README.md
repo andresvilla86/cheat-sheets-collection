@@ -2,6 +2,13 @@
 
 Coleccion de Cheat Sheet para Data Science.
 
+- [Python](https://github.com/FavioVazquez/ds-cheatsheets#python)
+    - [Python Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/python_basics.pdf)
+    - [Pandas Basics](https://github.com/FavioVazquez/ds-cheatsheets/blob/master/Python/Datacamp/pandas_basics.pdf)
+
+
+
+
 Agradecimientos:
 https://www.linkedin.com/in/drangshu/
 
