@@ -6,6 +6,8 @@ Coleccion de Cheat Sheet para Data Science.
 - [Data Science](https://github.com/andresvilla86/cheat-sheets-collection/blob/master/4.%20Data%20Science.pdf)
 - Machine Learning (pendiente)
 - SAS (pendiente)
+- OpenCV
+- Raspberry Pi
 
 Agradecimientos:
 https://www.linkedin.com/in/drangshu/
