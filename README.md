@@ -15,3 +15,5 @@ https://www.linkedin.com/in/drangshu/
 Nota 1: Si alguna es tuya buscame para agregarte en los agradecimeintos
 
 Nota 2: Algunas tienen al autor en la misma hoja
+
+Nota 3: Esta guía es referencial
